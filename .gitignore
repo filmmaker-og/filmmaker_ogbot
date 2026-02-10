@@ -1,0 +1,15 @@
+.env
+.env.*
+.venv/
+__pycache__/
+node_modules/
+*.pyc
+service_account.json
+client_secret.json
+vault.db
+main.py.bak*
+main.py.backup
+server/
+package.json
+package-lock.json
+yarn.lock
